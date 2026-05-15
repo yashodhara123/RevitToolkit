@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/obj/Debug R22/Revit ToolKit.AssemblyInfoInputs.cache
+*.json
+/obj/Debug R22/Revit ToolKit.pdb
+/obj/Debug R22/Revit ToolKit.csproj.FileListAbsolute.txt
+/obj/Debug R22/Revit ToolKit.dll
+/bin/Debug R22/publish/Revit 2022 Debug R22 addin/Revit ToolKit/Revit ToolKit.dll
+/bin/Debug R22/publish/Revit 2022 Debug R22 addin/Revit ToolKit/Revit ToolKit.pdb
+/bin/Debug R22/Revit ToolKit.dll
+/bin/Debug R22/Revit ToolKit.pdb
+/obj/Debug R22/Revit ToolKit.csproj.AssemblyReference.cache
+/obj/Debug R22/Revit ToolKit.AssemblyInfo.cs
