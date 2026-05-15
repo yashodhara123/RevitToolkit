@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Revit_ToolKit</Name>
+    <Assembly>Revit_ToolKit\Revit_ToolKit.dll</Assembly>
+    <AddInId>28E411AC-3F77-44E8-BECD-14C2D96E6A0C</AddInId>
+    <FullClassName>Revit_ToolKit.Application</FullClassName>
+    <VendorId>Development</VendorId>
+    <VendorDescription></VendorDescription>
+    <VendorEmail></VendorEmail>
+  </AddIn>
+</RevitAddIns>

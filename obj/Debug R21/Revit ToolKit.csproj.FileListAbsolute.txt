@@ -1,0 +1,6 @@
+C:\Users\yashodharas\source\repos\Revit ToolKit\Revit ToolKit\obj\Debug R21\Revit ToolKit.csproj.AssemblyReference.cache
+C:\Users\yashodharas\source\repos\Revit ToolKit\Revit ToolKit\obj\Debug R21\Revit ToolKit.g.resources
+C:\Users\yashodharas\source\repos\Revit ToolKit\Revit ToolKit\obj\Debug R21\Revit ToolKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashodharas\source\repos\Revit ToolKit\Revit ToolKit\obj\Debug R21\Revit ToolKit.AssemblyInfoInputs.cache
+C:\Users\yashodharas\source\repos\Revit ToolKit\Revit ToolKit\obj\Debug R21\Revit ToolKit.AssemblyInfo.cs
+C:\Users\yashodharas\source\repos\Revit ToolKit\Revit ToolKit\obj\Debug R21\Revit ToolKit.csproj.CoreCompileInputs.cache

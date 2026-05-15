@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Revit_ToolKit
+build_property.ProjectDir = C:\Users\yashodharas\source\repos\Revit ToolKit\Revit ToolKit\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
